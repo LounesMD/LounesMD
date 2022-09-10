@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Computer Science**
 
-- 👨‍💻 My GitHub projects are about **Reinforcement Learning, Blockchain, LoRaWAN, ...**
+- 👨‍💻 My GitHub projects are about **reinforcement learning, Blockchain, LoRaWAN, software engineering, ...**
 
 - 📫 How to reach me **lounes.meddahi@gmail.com**
 
