@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Lounès Meddahi</h1>
 <h3 align="center">A passionate MSc student in Computer Science and Mathematics from France</h3>
 
+- 🔭 I’m currently working on **Deep learning for chronic stroke lesion segmentation in brain MRI** at IRISA-EMPENN
+
 - 🌱 I’m currently learning **Computer Science**
 
-- 👨‍💻 My GitHub projects are about **reinforcement learning, Blockchain, LoRaWAN, software engineering, ...**
+- 👨‍💻 My GitHub projects are about **Reinforcement Learning, Blockchain, LoRaWAN, ..**
 
 - 📫 How to reach me **lounes.meddahi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lounesmeddahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lounès meddahi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lounesmeddahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lounesmeddahi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
