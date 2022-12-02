@@ -5,12 +5,13 @@
 
 - 🌱 I’m currently learning **Computer Science**
 
-- 👨‍💻 My GitHub projects are about **Deep Learning, Reinforcement Learning, Blockchain, LoRaWAN, ...**
+- 👨‍💻 My GitHub projects are about **Deep Learning, Reinforcement Learning, Blockchain, LoRaWAN**
 
 - 📫 How to reach me **lounes.meddahi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/lounesmedd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lounesmedd" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lounesmeddahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lounesmeddahi" height="30" width="40" /></a>
 </p>
 
