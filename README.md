@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Lounès Meddahi</h1>
 <h3 align="center">A passionate MSc student in Computer Science and Mathematics from France</h3>
 
-- 🔭 I’m currently working on **Deep learning for chronic stroke lesion segmentation in brain MRI**
+- 🔭 I’m currently working on **Reinforcement Learning at InstaDeep**
 
 - 🌱 I’m currently learning **Computer Science**
 
 - 👨‍💻 My GitHub projects are about **Deep Learning, Reinforcement Learning, Blockchain, LoRaWAN**
 
-- 📫 How to reach me **lounes.meddahi@gmail.com**
+- 📫 How to reach me **lounes[dot]meddahi[at]gmail[dot]com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
