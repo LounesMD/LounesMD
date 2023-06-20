@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently a master student learning **Computer Science** at **[École normale supérieure de Rennes](https://international.ens-rennes.fr/)**
 
-- 👨‍💻 My GitHub projects are about **Deep Learning, Reinforcement Learning, Blockchain, LoRaWAN**
+- 👨‍💻 My GitHub projects are about **[Reinforcement Learning](https://github.com/LounesMD/ReinforcementLearning), [Deep Learning](https://github.com/LounesMD/MMStrokeNet), [Blockchain](https://github.com/LounesMD/Block4PoId), [LoRaWAN](https://github.com/LounesMD/LoRaSIM)**
 
 - 📫 How to reach me : **lounes[dot]meddahi[at]gmail[dot]com**
 
