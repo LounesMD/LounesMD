@@ -7,7 +7,7 @@
 
 - 👨‍💻 My GitHub projects are about **[Reinforcement Learning](https://github.com/LounesMD/ReinforcementLearning), [Deep Learning](https://github.com/LounesMD/MMStrokeNet), [Blockchain](https://github.com/LounesMD/Block4PoId), [LoRaWAN](https://github.com/LounesMD/LoRaSIM)**
 
-- 📫 How to reach me : **lounes[dot]meddahi[at]gmail[dot]com**
+- 📫 How to reach me : **my [website](https://lounesmd.github.io/)** or **lounes[dot]meddahi[at]gmail[dot]com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
